@@ -1,5 +1,5 @@
 # CRUD system
-Express.js, Mongodb, Vuejs, Less
+Express.js, Mongodb
 
 ## Project Setup
 
